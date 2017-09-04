@@ -1,0 +1,712 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!--
+Licensed to the Apache Software Foundation (ASF) under one
+or more contributor license agreements.  See the NOTICE file
+distributed with this work for additional information
+regarding copyright ownership.  The ASF licenses this file
+to you under the Apache License, Version 2.0 (the
+"License"); you may not use this file except in compliance
+with the License.  You may obtain a copy of the License at
+
+  http://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing,
+software distributed under the License is distributed on an
+"AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY
+KIND, either express or implied.  See the License for the
+specific language governing permissions and limitations
+under the License.
+-->
+<rss version="0.91">
+  <channel>
+    <title>info.limpet.ui - Checkstyle report</title>
+    <link>${project.url}</link>
+    <description>info.limpet.ui - Checkstyle report</description>
+    <language>en-us</language>
+    <copyright>&#169;2017</copyright>
+    <item>
+      <title>File: 47,
+             Errors: 0,
+             Warnings: 74,
+             Infos: 0
+      </title>
+            <link>${project.url}/checkstyle.html</link>
+      <description>
+        <p>Click <a href="${project.url}/checkstyle.html">here</a> for the full Checkstyle report.</p>
+
+        <table summary="Files" boder="1">
+          <thead>
+            <tr>
+              <th>Files</th>
+              <th style="width:30px;"><abbr title="Info">I</abbr></th>
+              <th style="width:30px;"><abbr title="Warning">W</abbr></th>
+              <th style="width:30px;"><abbr title="Error">E</abbr></th>
+            </tr>
+          </thead>
+          <tbody>
+                          <tr>
+                <td>
+                  <a href="${project.url}/checkstyle.html#info.limpet.ui.PlottingHelpers.java">info/limpet/ui/PlottingHelpers.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="${project.url}/checkstyle.html#info.limpet.ui.RCPContext.java">info/limpet/ui/RCPContext.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="${project.url}/checkstyle.html#info.limpet.ui.data_provider.data.CheckboxPropertyDescriptor.java">info/limpet/ui/data_provider/data/CheckboxPropertyDescriptor.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="${project.url}/checkstyle.html#info.limpet.ui.data_provider.data.NamedList.java">info/limpet/ui/data_provider/data/NamedList.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="${project.url}/checkstyle.html#info.limpet.ui.range_slider.RangeSliderView.java">info/limpet/ui/range_slider/RangeSliderView.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  18
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="${project.url}/checkstyle.html#info.limpet.ui.Activator.java">info/limpet/ui/Activator.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="${project.url}/checkstyle.html#info.limpet.ui.heatmap.CommonGridView.java">info/limpet/ui/heatmap/CommonGridView.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  8
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="${project.url}/checkstyle.html#info.limpet.ui.data_provider.data.PropertyTypeHandler.java">info/limpet/ui/data_provider/data/PropertyTypeHandler.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  2
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="${project.url}/checkstyle.html#info.limpet.ui.analysis_view.AnalysisView.java">info/limpet/ui/analysis_view/AnalysisView.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="${project.url}/checkstyle.html#info.limpet.ui.propertyeditors.SliderCellEditor.java">info/limpet/ui/propertyeditors/SliderCellEditor.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="${project.url}/checkstyle.html#info.limpet.ui.time_frequency.TimeFrequencyView.java">info/limpet/ui/time_frequency/TimeFrequencyView.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="${project.url}/checkstyle.html#info.limpet.ui.stacked.LimpetStackedChartsAdapter.java">info/limpet/ui/stacked/LimpetStackedChartsAdapter.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="${project.url}/checkstyle.html#info.limpet.ui.editors.LimpetDecorator.java">info/limpet/ui/editors/LimpetDecorator.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="${project.url}/checkstyle.html#info.limpet.ui.data_provider.data.LimpetWrapper.java">info/limpet/ui/data_provider/data/LimpetWrapper.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="${project.url}/checkstyle.html#info.limpet.ui.data_provider.data.DataManagerDropAdapter.java">info/limpet/ui/data_provider/data/DataManagerDropAdapter.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="${project.url}/checkstyle.html#info.limpet.ui.operations.ShowInTacticalOverview.java">info/limpet/ui/operations/ShowInTacticalOverview.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  2
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="${project.url}/checkstyle.html#info.limpet.ui.wizards.SampleProjectWizard.java">info/limpet/ui/wizards/SampleProjectWizard.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="${project.url}/checkstyle.html#info.limpet.ui.editors.RCPOperationsLibrary.java">info/limpet/ui/editors/RCPOperationsLibrary.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="${project.url}/checkstyle.html#info.limpet.ui.data_provider.data.DataModel.java">info/limpet/ui/data_provider/data/DataModel.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="${project.url}/checkstyle.html#info.limpet.ui.EventStack.java">info/limpet/ui/EventStack.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  4
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="${project.url}/checkstyle.html#info.limpet.ui.editors.dnd.DataManagerDropAdapter.java">info/limpet/ui/editors/dnd/DataManagerDropAdapter.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="${project.url}/checkstyle.html#info.limpet.ui.operations.ShowInNamedView.java">info/limpet/ui/operations/ShowInNamedView.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="${project.url}/checkstyle.html#info.limpet.ui.data_provider.data.CommandWrapper.java">info/limpet/ui/data_provider/data/CommandWrapper.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="${project.url}/checkstyle.html#info.limpet.ui.actions.CreateSampleProject.java">info/limpet/ui/actions/CreateSampleProject.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="${project.url}/checkstyle.html#info.limpet.ui.operations.ShowInStackedChartsOverview.java">info/limpet/ui/operations/ShowInStackedChartsOverview.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  1
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="${project.url}/checkstyle.html#info.limpet.ui.propertyeditors.SliderPropertyDescriptor.java">info/limpet/ui/propertyeditors/SliderPropertyDescriptor.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="${project.url}/checkstyle.html#info.limpet.ui.heatmap.HeatmapView.java">info/limpet/ui/heatmap/HeatmapView.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  5
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="${project.url}/checkstyle.html#info.limpet.ui.data_provider.data.GroupWrapper.java">info/limpet/ui/data_provider/data/GroupWrapper.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="${project.url}/checkstyle.html#info.limpet.ui.xy_plot.XyPlotView.java">info/limpet/ui/xy_plot/XyPlotView.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  4
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="${project.url}/checkstyle.html#info.limpet.ui.data_provider.data.ISelectionProvider.java">info/limpet/ui/data_provider/data/ISelectionProvider.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="${project.url}/checkstyle.html#info.limpet.ui.editors.OperationWrapper.java">info/limpet/ui/editors/OperationWrapper.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="${project.url}/checkstyle.html#info.limpet.ui.editors.LimpetDragListener.java">info/limpet/ui/editors/LimpetDragListener.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  1
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="${project.url}/checkstyle.html#info.limpet.ui.data_provider.data.OperationWrapper.java">info/limpet/ui/data_provider/data/OperationWrapper.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  1
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="${project.url}/checkstyle.html#info.limpet.ui.editors.DataProviderEditorInput.java">info/limpet/ui/editors/DataProviderEditorInput.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="${project.url}/checkstyle.html#info.limpet.ui.data_provider.data.ReflectivePropertySource.java">info/limpet/ui/data_provider/data/ReflectivePropertySource.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  1
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="${project.url}/checkstyle.html#info.limpet.ui.core_view.CoreAnalysisView.java">info/limpet/ui/core_view/CoreAnalysisView.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  4
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="${project.url}/checkstyle.html#info.limpet.ui.editors.DataManagerEditorActionBarContributor.java">info/limpet/ui/editors/DataManagerEditorActionBarContributor.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="${project.url}/checkstyle.html#info.limpet.ui.editors.ISelectionProvider.java">info/limpet/ui/editors/ISelectionProvider.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="${project.url}/checkstyle.html#info.limpet.ui.propertyeditors.SliderCellEditorExt.java">info/limpet/ui/propertyeditors/SliderCellEditorExt.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="${project.url}/checkstyle.html#info.limpet.ui.heatmap.TabularView.java">info/limpet/ui/heatmap/TabularView.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="${project.url}/checkstyle.html#info.limpet.ui.heatmap.Helper2D.java">info/limpet/ui/heatmap/Helper2D.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  7
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="${project.url}/checkstyle.html#info.limpet.ui.heatmap.IntensityGraphExample.java">info/limpet/ui/heatmap/IntensityGraphExample.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  7
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="${project.url}/checkstyle.html#info.limpet.ui.editors.LimpetLabelProvider.java">info/limpet/ui/editors/LimpetLabelProvider.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  2
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="${project.url}/checkstyle.html#info.limpet.ui.data_provider.data.DocumentWrapper.java">info/limpet/ui/data_provider/data/DocumentWrapper.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="${project.url}/checkstyle.html#info.limpet.ui.wizards.SampleProjectWizardPage.java">info/limpet/ui/wizards/SampleProjectWizardPage.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="${project.url}/checkstyle.html#info.limpet.ui.data_frequency.DataFrequencyView.java">info/limpet/ui/data_frequency/DataFrequencyView.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  1
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="${project.url}/checkstyle.html#info.limpet.ui.editors.DataManagerEditor.java">info/limpet/ui/editors/DataManagerEditor.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  6
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                      </tbody>
+        </table>
+        
+      </description>
+    </item>
+  </channel>
+</rss>
+
